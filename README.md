@@ -16,3 +16,4 @@ The main purpose of this project was to make our iRobot create 2 autonomous, so 
 - Python 3
 - OpenCV
 
+Video : [IRobot Create 2 - Maze Path Finder Robot](https://www.youtube.com/edit?video_id=ZUs1LlN4cr0)
