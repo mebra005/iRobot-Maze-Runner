@@ -18,4 +18,4 @@ The main purpose of this project was to make our iRobot create 2 autonomous, so 
 
 ## Video :
 
-[IRobot Create 2 - Maze Path Finder Robot](https://www.youtube.com/edit?video_id=ZUs1LlN4cr0)
+[IRobot Create 2 - Maze Path Finder Robot](https://www.youtube.com/watch?v=ZUs1LlN4cr0)
